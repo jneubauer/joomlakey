@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="system">
+    <name>System - Joomla! Keyboard Master</name>
+    <author>Jon Neubauer</author>
+    <creationDate>August 2015</creationDate>
+    <copyright>Copyright (C) 2015 Jon Neubauer. All rights reserved.</copyright>
+    <license>GNU General Public License version 3 or later</license>
+    <authorEmail>jon@neubauer.me</authorEmail>
+    <authorUrl>www.jonneubauer.com</authorUrl>
+    <version>1.0</version>
+    <description>integrates keyboard shortcuts for popular administration actions</description>
+    <files>
+        <filename plugin="joomlakey">joomlakey.php</filename>
+		<filename>joomlakey.js</filename>
+		<filename>index.html</filename>
+    </files>
+</extension>
