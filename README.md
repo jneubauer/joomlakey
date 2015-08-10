@@ -8,17 +8,17 @@ Install. That's it! :) Just enable the plugin, and you can start using your shor
 
 ### Available Shortcuts
 
-| Shortcut | | Action |
-|----------|--|------|
-| Ctrl + s |  | Save open form |
-| Ctrl + d |  | Save & Close open form |
-| Ctrl + g |  | Save & New open form |
-| Ctrl + k |  | Cancel open form |
-| Ctrl + q |  | New article |
-| Ctrl + n |  | New menu item |
-| Ctrl + m |  | New module |
-| Ctrl + j |  | Admin Control Panel |
-| Ctrl + h |  | Help (coming soon) |
+Shortcut | | Action
+---------|--|------
+Ctrl + s |  | Save open form
+Ctrl + d |  | Save & Close open form
+Ctrl + g |  | Save & New open form
+Ctrl + k |  | Cancel open form
+Ctrl + q |  | New article
+Ctrl + n |  | New menu item
+Ctrl + m |  | New module
+Ctrl + j |  | Admin Control Panel
+Ctrl + h |  | Help (coming soon)
 
 Ctrl + s 
 
