@@ -1069,7 +1069,9 @@ Mousetrap.bind('ctrl+j', function(e) {
 
 //Help | Ctrl + h
 Mousetrap.bind('ctrl+h', function(e) {
-    alert("help instructions");
+    var helpdiv = document.createElement('div');
+	helpdiv.id = 'helpdiv';
+	document.getElementsByName('body'[0].appendChild(helpdiv);
 });
 
 //Publish
