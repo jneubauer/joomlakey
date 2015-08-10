@@ -2,6 +2,10 @@
 
 A plugin that allows Joomla administrators to use easy keyboard shortcuts to accomplish frequent tasks like saving an item (article, module, menu, etc), opening a new item, and other frequent tasks.
 
+### Release Downloads
+
+For downloadable releases, check the [Releases tab](https://github.com/jneubauer/joomlakey/releases). Probably safer than relying on what's currently in master.
+
 ### Setup
 
 Install. That's it! :) Just enable the plugin, and you can start using your shortcuts right away!
