@@ -12,6 +12,7 @@
     <files>
         <filename plugin="joomlakey">joomlakey.php</filename>
 		<filename>joomlakey.js</filename>
+		<filename>mousetrap.js</filename>
 		<filename>index.html</filename>
     </files>
 </extension>
