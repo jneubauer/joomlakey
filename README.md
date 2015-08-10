@@ -1,4 +1,4 @@
-# Joomla Git Plugin
+# Joomla! Keyboard Master
 
 A plugin that allows Joomla administrators to use easy keyboard shortcuts to accomplish frequent tasks like saving an item (article, module, menu, etc), opening a new item, and other frequent tasks.
 
